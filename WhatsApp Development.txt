@@ -2,8 +2,8 @@ WhatsApp Development
 Author – Rama 
 1. Account Creation code
 2. Chat screen code
-3. Attachments code [file, audio, video]
+3. Attachments code [audio, video, pdf, doc, excel, Contacts]
 4. Voice call code 
-5. Vedio call code
+5. Vedio call code upto 8 memebers
 6. Status for 30 secs feature code
-
+7. Introduce Stickers Code
