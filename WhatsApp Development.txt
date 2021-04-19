@@ -5,4 +5,5 @@ Author – Rama
 3. Attachments code [file, audio, video]
 4. Voice call code 
 5. Vedio call code
+6. Status for 30 secs feature code
 
