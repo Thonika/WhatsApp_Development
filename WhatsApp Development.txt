@@ -7,3 +7,4 @@ Author – Rama
 5. Vedio call code upto 8 memebers
 6. Status for 30 secs feature code
 7. Introduce Stickers Code
+8. Added Privacy setting for Status
